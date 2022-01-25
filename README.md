@@ -1,1 +1,3 @@
-# furlani_k_project1
+# Project 1 - Folder Setup :desktop_computer:
+
+Krystal Furlani :crescent_moon:
